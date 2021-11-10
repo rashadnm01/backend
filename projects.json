@@ -1,14 +1,14 @@
 [
   {
-    "name": "project1",
-    "live": "https://app.herokuapp.com/whatever",
-    "git": "http://www.github.com/username/reponame",
+    "name": "Rashad Business Trivia",
+    "live": "https://seir-penguin-project1-nine.vercel.app/",
+    "git": "https://github.com/rashadnm01/seir-penguin-project1",
     "image": "http://www.imgur.com/pictureofproject.png"
   },
   {
-    "name": "project2",
-    "live": "https://app.netlify.app/whatever",
-    "git": "http://www.github.com/username/reponame",
+    "name": "Event Scheduler",
+    "live": "https://dashboard.heroku.com/apps/seirpenguinproject2",
+    "git": "https://github.com/rashadnm01/seir-penguin-project2",
     "image": "http://www.imgur.com/pictureofproject.png"
   }
 ]
